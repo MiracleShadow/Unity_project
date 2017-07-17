@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameController.cs">
+    <Files>
+      <File FileName="Assets\BirdController.cs" Line="44" Column="43" />
+      <File FileName="Assets\PipeController.cs" Line="25" Column="42" />
+      <File FileName="Assets\MoveController.cs" Line="25" Column="9" />
+      <File FileName="Assets\GameController.cs" Line="50" Column="32" />
+      <File FileName="Assets\FollowBird.cs" Line="13" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
